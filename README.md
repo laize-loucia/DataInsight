@@ -57,3 +57,19 @@ Ce projet utilise le dataset **Mall Customers** pour segmenter les clients en gr
   - Cluster 3 : Clients plus âgés avec un revenu modeste et un faible score de dépense
 - **identification du meilleur modèle KNN K-nearest neighbors
 
+
+
+-  Compétences Maîtrisées
+1. **Prétraitement des données** : Nettoyage, encodage des variables catégorielles, gestion des valeurs manquantes.
+2. **Modélisation** : Utilisation de modèles de machine learning comme Random Forest, Decision Tree, et K-Means.
+3. **Évaluation des modèles** : Calcul de métriques comme l'accuracy et la MAE pour évaluer les performances des modèles.
+4. **Visualisation des données** : Création de graphiques 2D et 3D pour mieux comprendre les données et les résultats des modèles.
+
+
+
+####Installe les dépendances nécessaires :
+--pip install pandas scikit-learn plotly numpy
+
+####Exécute les scripts Python :
+-python Titanic.py
+-python Mall_Customers.py
