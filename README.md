@@ -67,9 +67,9 @@ Ce projet utilise le dataset **Mall Customers** pour segmenter les clients en gr
 
 
 
-####Installe les dépendances nécessaires :
+#### Installe les dépendances nécessaires :
 --pip install pandas scikit-learn plotly numpy
 
-####Exécute les scripts Python :
+#### Exécute les scripts Python :
 -python Titanic.py
 -python Mall_Customers.py
